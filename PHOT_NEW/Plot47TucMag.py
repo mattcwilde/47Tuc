@@ -7,6 +7,10 @@
 	
 	The other programs would plot the data'''
 
+
+'''7/17/2015 going to change this code to work with the new data
+	including all the new CVs maybe?'''
+
 from math import *
 #import matplotlib.pyplot as plt
 from astropy.table import Table
